@@ -12,7 +12,7 @@ int search(int arr[], int n, int x)         // Sequential Seach Algorithm
 int main(void)                              // Main Function
 {
     int arr[] = { 4, 6, 8, 10, 50};
-    int n = sizeof(arr);   // Initalizing all the variables
+    int n = sizeof(arr);                    // Initalizing all the variables
     int x;
 
     printf("Please input a number: ");      // Prompting user for Target
@@ -20,7 +20,7 @@ int main(void)                              // Main Function
 
     int result = search(arr, n, x);
     (result == -1)
-        ? printf("Element is not present in array")             // In case the target cannot be found.
+        ? printf("Element is not present in array")              // In case the target cannot be found.
         : printf("Element is present at index %d.", result);     // If case target is found.
     return 0;
 }
