@@ -12,7 +12,7 @@ int search(int arr[], int n, int x)         // Sequential Seach Algorithm
 int main(void)                              // Main Function
 {
     int arr[] = { 4, 6, 8, 10, 50};
-    int n = sizeof(arr) / sizeof(arr[0]);   // Initalizing all the variables
+    int n = sizeof(arr);   // Initalizing all the variables
     int x;
 
     printf("Please input a number: ");      // Prompting user for Target
