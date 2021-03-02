@@ -1,0 +1,2 @@
+#Read Me  
+An array based list coded in the C language. In addition to the list itself, this folder contains the files stopwatch.h and stopwatch.c which serve in analyzing the time complexity of the code of the array based list.   
