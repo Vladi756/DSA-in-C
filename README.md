@@ -1,2 +1,2 @@
-# Algorithms-in-C
-Includes sorting as well as searching algorithms in the C programming language. 
+# Data Structures and Algorithms 
+Includes sorting as well as searching algorithms in the C and C++ programming languages. 
