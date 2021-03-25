@@ -1,3 +1,3 @@
 # DSA in C 
-Includes sorting as well as searching algorithms in the C programming language. 
+Data structures and algorithms coded in C++.
 If you find this repo helpful please consider starring it.
