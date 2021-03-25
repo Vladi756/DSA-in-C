@@ -1,2 +1,2 @@
-# Data Structures and Algorithms 
-Includes sorting as well as searching algorithms in the C and C++ programming languages. 
+# DSA in C 
+Includes sorting as well as searching algorithms in the C programming language. 
